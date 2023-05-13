@@ -85,7 +85,8 @@ Aim: Design and implement a 4 bit full adder.
 
 ## DESIGN   
 
- 
+ ![image](https://github.com/M-Abul-Hassan/Verilog-Program-for-full-adder-from-half-adder-upto-256-full-adder/assets/118730309/a0345071-8c61-4a80-a4f5-29003b1e055f)
+
 
 
 # Verilog Program- 4BIT FULL ADDER   
@@ -164,11 +165,21 @@ add location:
 ## Timing diagram:   
 ## Simulation:   
 
+![image](https://github.com/M-Abul-Hassan/Verilog-Program-for-full-adder-from-half-adder-upto-256-full-adder/assets/118730309/dcba448c-df64-4e0f-a4f5-833c480d9410)
+
+
+![image](https://github.com/M-Abul-Hassan/Verilog-Program-for-full-adder-from-half-adder-upto-256-full-adder/assets/118730309/0927ec24-a741-44df-a930-4186fa7bed82)
 
  
+![image](https://github.com/M-Abul-Hassan/Verilog-Program-for-full-adder-from-half-adder-upto-256-full-adder/assets/118730309/73661611-07d5-4753-90a9-43ab7d01bca7)
+
+
 
  
- 
+ ![image](https://github.com/M-Abul-Hassan/Verilog-Program-for-full-adder-from-half-adder-upto-256-full-adder/assets/118730309/014023fb-c112-4d8f-ac53-2a68c671f5a5)
+
+
+
  
 
 # 16BIT FULL ADDER    
@@ -366,7 +377,17 @@ or (D,w[2],w[3]);
 endmodule   
   
    
-  
+
+## Hardware Implementation On NEXYS 4(Artix-7 Power)
+
+![WhatsApp Image 2023-04-28 at 10 20 23 AM](https://user-images.githubusercontent.com/118730309/235071152-9788071e-e3c3-446f-99a1-7b697cd8f40f.jpeg)
+
+
+![WhatsApp Image 2023-04-28 at 10 21 01 AM](https://user-images.githubusercontent.com/118730309/235071377-4e738fb4-71b4-4cf2-89fd-8a3447b4f6ba.jpeg)
+
+
+
+
 --------THE END--------   
 
 
