@@ -3,7 +3,7 @@
 ### short description
 Verilog Program for XOR,Half adder,full adder,4 bit adder,16 bit,32 bit,64 bit ,128 bit and 256 bit full adder
 
-# Verify Logic 
+# Verify the Logic 
 # XOR Gate
 module xor_gate(output y,input a,b );  
 wire [3:0]w;   
