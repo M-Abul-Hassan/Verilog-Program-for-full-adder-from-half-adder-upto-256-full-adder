@@ -25,6 +25,7 @@ and(w[3],a,w[1]);
 or(y,w[2],w[3]);  
 endmodule    
 
+
 # Procedure:  
 ####  Step#01   
 Run simulation  
