@@ -15,6 +15,7 @@ or(y,w[2],w[3]);
 endmodule  
 
 
+
 # Half Adder
 module xor_gate(output y,input a,b );  
 wire [3:0]w;  
